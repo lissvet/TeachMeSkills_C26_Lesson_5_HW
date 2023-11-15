@@ -1,5 +1,5 @@
 # TeachMeSkills_C26_Lesson_5_HW
-Homework for the fifth lesson
+Homework for the fifth lesson  
 ***Main:***
 
 In class **Task_0** сreated a three-dimensional array of integers.  
