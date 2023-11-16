@@ -1,3 +1,5 @@
+package com.teachmeskills.lesson5.main;
+
 import java.util.Arrays;
 import java.util.Scanner;
 /**Create a three-dimensional array of integers.

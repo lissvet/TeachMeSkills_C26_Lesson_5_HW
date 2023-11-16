@@ -1,3 +1,5 @@
+package com.teachmeskills.lesson5.main;
+
 import java.util.Arrays;
 /**Create a program to color a chessboard using a loop.
  * Using loops, set the array elements to B(Black) or W(White).*/
